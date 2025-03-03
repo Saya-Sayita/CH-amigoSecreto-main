@@ -1,4 +1,4 @@
-![Descubre a tu amigo Secreto](https://github.com/Saya-Sayita/challenge-amigo-secreto-main/blob/main/Logo.jpg)
+![Descubre a tu amigo Secreto](https://github.com/Saya-Sayita/CH-amigoSecreto-main/blob/main/assets/Logo.jpg)
 <h1> Challenge Amigo Secreto </h1>
 #Indice
 ##Descripcion del Proyecto
