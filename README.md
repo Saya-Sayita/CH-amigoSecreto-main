@@ -1,10 +1,13 @@
+<h1 align="center"> Challenge Amigo Secreto </h1>
+
 ![Descubre a tu amigo Secreto](https://github.com/Saya-Sayita/CH-amigoSecreto-main/blob/main/assets/Logo.jpg)
-<h1> Challenge Amigo Secreto </h1>
+
 #Indice
-##Descripcion del Proyecto
-##Caracteristicas de la aplicacion
-##Funcionalidades de la aplicacion
-##Funciones de la aplicacion
+
+*[Descripcion del Proyecto]
+*[Caracteristicas de la aplicacion]
+*[Funcionalidades de la aplicacion]
+*[Funciones de la aplicacion]
 
 ### Descripcion del Proyecto:
 El Challenge del amigo secreto es mi primer codigo desarrollado en JavaScript, el primero desafio deonde se utilizo Funciones propias de JS como para tomar o sortear un amigo al azar contenido en una lista o arreglo.
